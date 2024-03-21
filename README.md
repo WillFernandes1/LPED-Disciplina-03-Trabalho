@@ -29,7 +29,7 @@ Este trabalho foi desenvolvido por W. Carvalho em 2024.
 ### Oportunidades de Melhorias:
 
 - como a API do duckdb para persistencia analitca, como melhorias também poderiamos utilizar a leitura direta via API diretamente do IBGE, obtivemos um ganho substancial em leitura e escrita de forma a satisfazer o objeto de estudo, 111 mi de registros em segundos.
-- Verificar as atualizações, persistir e orquestrar com outras tecnologias, airflow, databricks.
+- Verificar as atualizações, persistir e orquestrar, processar com outras tecnologias, airflow, databricks, spark.
 
 ###### Resultados obtidos  em armazenamento, após compressão:
 
