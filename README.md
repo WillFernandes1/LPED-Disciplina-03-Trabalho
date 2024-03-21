@@ -12,5 +12,22 @@ Este trabalho foi desenvolvido por W. Carvalho em 2024.
 - **Formato, Compressão**: .parquet
 - **Armazenamento Local para Leitura**: CSV
 
+### Data/ -> Armazenamento após processamento e compressão.
+### Pipe/ -> Arquivos Locais .csvs
+
 ### Referencia Local
+
 ![Versão Local](image.png)
+
+###### Resultados em Armazenamentos: 
+| Armazenamento  | Tipo Dado  |
+|  3,9 GB |   CSV |
+|  1,4 GB |  .Parquet |
+
+
+
+Documentação
+``https://duckdb.org/docs/guides/index``
+``https://duckdb.org/docs/data/partitioning/partitioned_writes``
+``https://duckdb.org/docs/guides/import/csv_import``
+
