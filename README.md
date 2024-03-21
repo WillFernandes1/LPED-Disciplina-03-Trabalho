@@ -16,9 +16,7 @@ Este trabalho foi desenvolvido por W. Carvalho em 2024.
 ### Pipe/ -> Arquivos Locais .csvs
 
 ### Referencia Local
-
 ![Versão Local](image.png)
-
 ###### Resultados obtidos  em armazenamento, após compressão:
 
 | Armazenamento  | Tipo Dado   |
@@ -29,8 +27,10 @@ Este trabalho foi desenvolvido por W. Carvalho em 2024.
 
 
 
-Documentação
-``https://duckdb.org/docs/guides/index``
-``https://duckdb.org/docs/data/partitioning/partitioned_writes``
-``https://duckdb.org/docs/guides/import/csv_import``
+``Documentação utilizada no projeto``
+
+
+[https://duckdb.org/docs/guides/index](https://duckdb.org/docs/guides/index)
+[https://duckdb.org/docs/data/partitioning/partitioned_writes](https://duckdb.org/docs/data/partitioning/partitioned_writes)
+[https://duckdb.org/docs/guides/import/csv_import](https://duckdb.org/docs/guides/import/csv_import)
 
