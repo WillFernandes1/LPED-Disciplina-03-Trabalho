@@ -5,7 +5,7 @@ Este projeto tem como objetivo realizar a leitura e compressão dos dados dos en
 
 Os dados locais estão atualmente armazenados em formato CSV.
 
-Este trabalho é desenvolvido por W. Carvalho em 2024.
+Este trabalho foi desenvolvido por W. Carvalho em 2024.
 
 ## Fonte de Dados
 - **Origem**: IBGE
