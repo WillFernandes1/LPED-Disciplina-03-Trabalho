@@ -14,6 +14,7 @@ Este trabalho foi desenvolvido por W. Carvalho em 2024.
 
 ### Data/ Armazenamento após processamento e compressão.
 ### Pipe/ Arquivos Locais .csv
+### ibge.db / DuckDB
 
 ### Referencia Local
 ![Versão Local](image.png)
