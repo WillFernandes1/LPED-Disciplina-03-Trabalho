@@ -12,8 +12,8 @@ Este trabalho foi desenvolvido por W. Carvalho em 2024.
 - **Formato, Compressão**: .parquet
 - **Armazenamento Local para Leitura**: CSV
 
-### Data/ -> Armazenamento após processamento e compressão.
-### Pipe/ -> Arquivos Locais .csvs
+### Data/ Armazenamento após processamento e compressão.
+### Pipe/ Arquivos Locais .csvs
 
 ### Referencia Local
 ![Versão Local](image.png)
