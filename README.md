@@ -19,10 +19,13 @@ Este trabalho foi desenvolvido por W. Carvalho em 2024.
 
 ![Versão Local](image.png)
 
-###### Resultados em Armazenamentos: 
-| Armazenamento  | Tipo Dado  |
-|  3,9 GB |   CSV |
-|  1,4 GB |  .Parquet |
+###### Resultados obtidos  em armazenamento, após compressão:
+
+| Armazenamento  | Tipo Dado   |
+| ------------ | ------------ |
+| 3,9 GB   |   CSV |
+|  1,4 GB   |   .Parquet |
+
 
 
 
