@@ -13,7 +13,7 @@ Este trabalho foi desenvolvido por W. Carvalho em 2024.
 - **Armazenamento Local para Leitura**: CSV
 
 ### Data/ Armazenamento após processamento e compressão.
-### Pipe/ Arquivos Locais .csvs
+### Pipe/ Arquivos Locais .csv
 
 ### Referencia Local
 ![Versão Local](image.png)
