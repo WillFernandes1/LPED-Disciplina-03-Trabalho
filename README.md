@@ -17,7 +17,7 @@ Este trabalho foi desenvolvido por W. Carvalho em 2024.
 ### ibge.db / DuckDB
 
 ### Referencia Local
-![Versão Local](image.png)
+![Ref](image.png)
 
 
 ######
