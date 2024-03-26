@@ -5,7 +5,7 @@ Este projeto tem como objetivo realizar a leitura e compressão dos dados dos en
 
 Os dados locais estão atualmente armazenados em formato .CSV
 
-Este trabalho foi desenvolvido por W. Carvalho em 2024.
+
 
 ## Fonte de Dados
 - **Origem**: IBGE
@@ -47,4 +47,6 @@ Este trabalho foi desenvolvido por W. Carvalho em 2024.
 [https://duckdb.org/docs/guides/index](https://duckdb.org/docs/guides/index)
 [https://duckdb.org/docs/data/partitioning/partitioned_writes](https://duckdb.org/docs/data/partitioning/partitioned_writes)
 [https://duckdb.org/docs/guides/import/csv_import](https://duckdb.org/docs/guides/import/csv_import)
+
+
 
